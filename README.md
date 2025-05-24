@@ -4,8 +4,11 @@
 <br>
 Author: Farhan Sadik
 
+Recent updates:
+0. Code (Terminal based) 
+
 Future updates: <br>
 
-0. Code (Terminal based) 
+
 1. Database
 2. Front-end (basic)
