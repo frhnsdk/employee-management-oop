@@ -10,5 +10,4 @@ Recent updates:
 Future updates: <br>
 
 
-1. Database
-2. Front-end (basic)
+1. Front-end (basic)
